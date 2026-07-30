@@ -1,4 +1,4 @@
-const SIGNUP_URL = "https://app.fidelx.example/signup";
+const SIGNUP_URL = "https://fidelx-frontend.vercel.app/";
 
 // Centralize every signup CTA
 document.querySelectorAll("[data-signup]").forEach((el) => {
