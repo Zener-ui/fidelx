@@ -1,0 +1,15 @@
+{
+  "rewrites": [
+    {"source":"/about","destination":"/about.html"},
+    {"source":"/story","destination":"/story.html"},
+    {"source":"/customers","destination":"/customers.html"},
+    {"source":"/vendors","destination":"/vendors.html"},
+    {"source":"/riders","destination":"/riders.html"},
+    {"source":"/partners","destination":"/partners.html"},
+    {"source":"/contact","destination":"/contact.html"},
+    {"source":"/blog","destination":"/blog.html"}
+  ],
+  "redirects": [
+    {"source":"/home","destination":"/","permanent":true}
+  ]
+}
